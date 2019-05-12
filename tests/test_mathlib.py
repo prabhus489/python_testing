@@ -1,3 +1,4 @@
+import pytest
 import mathlib
 
 def test_calc_total():
