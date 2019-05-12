@@ -1,0 +1,2 @@
+python -m pylint Python_Codes
+python -m pytest -v
