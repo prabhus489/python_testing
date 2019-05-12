@@ -1,5 +1,5 @@
 import pytest
-from mathlib import calc_total, calc_multiply
+from python_codes.mathlib import calc_total, calc_multiply
 
 def test_calc_total():
     total=mathlib.calc_total(4,5)
